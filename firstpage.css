@@ -1,0 +1,19 @@
+body {
+    display: flex;
+}
+
+#top-right {
+    text-align: right;
+}
+
+#top-left {
+    text-align: left;
+}
+
+#signup {
+    justify-content: flex-end;
+}
+
+#search-box {
+    justify-content: end;
+}
